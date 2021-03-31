@@ -1,0 +1,29 @@
+{
+  "name": "toDoList-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/br-candido/toDoList-Grupo2-SENAI.git"
+  },
+  "author": "Bruno Candido <brunorogeriocandido@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "prettier": "^2.2.1",
+    "sucrase": "^3.17.1"
+  },
+  "bugs": {
+    "url": "https://github.com/br-candido/toDoList-Grupo2-SENAI/issues"
+  },
+  "homepage": "https://github.com/br-candido/toDoList-Grupo2-SENAI#readme",
+  "keywords": [],
+  "description": ""
+}
